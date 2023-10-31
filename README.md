@@ -15,7 +15,8 @@
 
 - 🤝 I’m looking for help with **From Our faculty**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/AnkitUmredkar/AnkitUmredkar](https://github.com/AnkitUmredkar)]
+- 👨‍💻 All of my projects are available at
+      https://github.com/AnkitUmredkar?tab=repositories
 
 - ⚡ Fun fact **I am funny**
 
