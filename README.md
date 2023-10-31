@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **ankitumredkar77@gmail.com**
 
+- 👯 I’m looking to collaborate on **Android and ios app development**
+
+- 🤝 I’m looking for help with **From Our faculty**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AnkitUmredkar/AnkitUmredkar]
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
