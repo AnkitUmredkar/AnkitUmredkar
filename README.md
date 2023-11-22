@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitumredkar&label=Profile%20views&color=0e75b6&style=flat" alt="ankitumredkar" /> </p>
 
-- 🌱 I’m currently learning **Google Framework : Flutter**
+- 🌱 I’m currently learning **Google Framework : Flutt**
 
 - 📫 How to reach me **ankitumredkar77@gmail.com**
 
