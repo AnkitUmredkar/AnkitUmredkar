@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_mr.ankit_u__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.ankit_u__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__mr.ankit_u__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.ankit_u__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ankit-umredkar-a99549289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit umredkar" height="30" width="40" /></a>
 </p>
 
