@@ -1,4 +1,4 @@
-![logo](https://github.com/AnkitUmredkar/img/blob/main/banner.jpg)
+![logo](https://github.com/AnkitUmredkar/AnkitUmredkar/assets/149374001/ba4c0038-f586-4e6b-a36d-fa35ca021603)
 
 <h1 align="center">Hi 👋, I'm Ankit Umredkar</h1>
 <h3 align="center">Flutter Application Developer - Studying at Red and White Multimedia Education Pvt. Ltd.</h3>
