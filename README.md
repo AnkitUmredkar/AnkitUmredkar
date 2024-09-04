@@ -11,9 +11,8 @@
 
 - 📫 How to reach me **ankitumredkar77@gmail.com**
 
-- 🤝 I’m looking for help with **Our faculty**
-
 - 👨‍💻 All of my projects are available at :
+
 -    https://github.com/AnkitUmredkar?tab=repositories
 
 - ⚡ fact **Work in silence let your success will be your noise**
